@@ -3,11 +3,8 @@
 
 /************************************************************************************************************************
 
-Name:Nicholas Child                                 Z#:23537683
-Course: Foundations of Computer Science (COP3014)
-Professor: Dr. Lofton Bullard
-Due Date:9/9/2019                      Due Time:12:00
-Total Points: 20
+Name:Nicholas Child                                 
+
 Assignment #: amazon_orders.cpp
 
 Description:The purpose of this program is to generate order information from a file with data about amazon purchases
