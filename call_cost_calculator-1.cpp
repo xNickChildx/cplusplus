@@ -1,9 +1,5 @@
 /***********************************************************
-Nick Child	        Total Points:  10
-Due Date:  9/2/2019
-Course:  C0P3014
-Assignment:  Assignment 1
-Professor: Dr. Lofton Bullard
+Nick Child	     
 
 Description: The purpose of this program is to calculate the total cost of a phone call by doing calculations from the entered data about the length and number of relay station used during a phone call..
 
