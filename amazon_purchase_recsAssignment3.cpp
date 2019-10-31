@@ -3,11 +3,9 @@
 
 /************************************************************************************************************************
 
-Name:Nicholas Child                                 Z#:23537683
+Name:Nicholas Child                                 
 Course: Foundations of Computer Science (COP3014)
-Professor: Dr. Lofton Bullard
-Due Date:9/16/19                      Due Time:24:00
-Total Points: 20
+
 Assignment #: amazon_purchase_recs.cpp
 
 Description:This program generates billing info from an Amazon order. The data is read in from a input file and calculations are made to generate billing costs.it then outputs the results
